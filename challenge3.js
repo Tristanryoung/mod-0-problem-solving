@@ -12,5 +12,5 @@ var words = ["typing", "jelly", "surfing", "tennis"];
 for (var i =0; i<words.length; i++) {
     if (words[i].startsWith("t")) {
         console.log(words[i])
-     }
+    }
 }
