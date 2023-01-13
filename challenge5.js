@@ -10,7 +10,7 @@ var destinations = ["Los Angeles", "New York", "Tahiti", "Fiji"];
 var destinationsSorted = destinations.sort();
 
 for (var i=0; i<destinations.length; i++) {
-    console.log(`The next place I want to surf is  ${destinationsSorted[i]}.`)
+    console.log(`"The next place I want to surf is  ${destinationsSorted[i]}."`)
 }
 // Stuck?-- go back to pseudocode and rethink what you might be missing
 // Re-factor– see if you can refine code
